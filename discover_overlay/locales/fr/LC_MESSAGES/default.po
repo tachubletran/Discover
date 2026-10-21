@@ -424,7 +424,7 @@ msgid "Hide Overlays"
 msgstr "Cacher les overlays"
 
 msgid "Reset Core Settings"
-msgstr "Réinitialiser les paramètres du noyeau"
+msgstr "Réinitialiser les paramètres du noyau"
 
 msgid "Integrate with Pipewire/Pulseaudio"
 msgstr "Intégration avec Pipewire/Pulseaudio"
